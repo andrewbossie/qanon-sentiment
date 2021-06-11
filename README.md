@@ -12,4 +12,4 @@ Python 3+, Pandas, Numpy, Scikit-Learn, Gensim and Matplotlib
 # Run
 `python(3) main.py <path-to-datafile> <path-to-w2vfile> <path-to-kmeansfile>`
 
-* Args 2 and 3 are optional
+* Python args 3 and 4 are optional
